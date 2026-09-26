@@ -1,1 +1,1 @@
-# 22-c-programming-avika-dubey
+# 22-C-PROGRAMMING-avika-dubey
